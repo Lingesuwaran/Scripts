@@ -1,4 +1,4 @@
-LA="make"
+LA="make gcc"
 sudo apt install $LA
 
 wget https://golang.org/dl/go1.15.1.linux-amd64.tar.gz
